@@ -57,7 +57,7 @@ image-gallery/
 1. Clone the repository:
 
 ```bash
-git clone YOUR-GITHUB-REPOSITORY-URL
+git clone https://github.com/rudra-narayan-malla/codealpha-image-gallery
 ```
 
 2. Open the project folder.
@@ -88,14 +88,6 @@ Users can select different categories to display specific images.
 ### Responsive Design
 
 The gallery automatically adjusts its layout according to the screen size.
-
-## 📸 Screenshots
-
-Add a screenshot of your project here:
-
-```markdown
-![Image Gallery Screenshot](screenshot.png)
-```
 
 ## 👨‍💻 Author
 
