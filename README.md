@@ -83,6 +83,13 @@ Users can select different categories to display specific images.
 
 The gallery automatically adjusts its layout according to the screen size.
 
+## 🖥️ Sample Output
+
+The gallery displays images in a responsive grid with category filters.
+Clicking an image opens it in a larger lightbox view.
+Users can navigate using Next/Previous buttons and close the lightbox.
+
+
 ## 👨‍💻 Author
 
 **Rudranarayan Malla**
